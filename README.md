@@ -88,15 +88,6 @@ The project includes:
 - Evaluating Machine Learning models
 - Comparing Linear Regression and Random Forest Regression
 
-## Project Structure
-
-```text
-Insurance-Cost-Prediction/
-│
-├── README.md
-├── insurance_prediction.ipynb
-└── insurance.csv
-
 ## Author
 
 **Jinesh Suthar**
